@@ -15,13 +15,13 @@ At bluelightcard we have a large member base that have access to a hug number of
 
 We would like you to build a small app with the following requirements:
  - Display discounts in a grid layout with a maximum of 3 columns.
- - Each discount needs to display the brand/company logo (images are located in the images folder).
+ - Each discount needs to display the brand logo (images are located in the images folder).
  - Each discount needs to display the following data (provided in the sample json dataset)
-   - Brand/Company name along with the discount percentage in the following format "Get 15% discount off Gymshark".
-   - Discount description.
+   - Brand name along with the discount percentage in the following format "Get 15% discount off Gymshark".
+   - Discount description (This is an optional field so please account for this).
    - Discount code.
  - Basic filtering such as
-   - Sorting in ascending and descending order of brand/company name.
+   - Sorting in ascending and descending order of brand name.
    - Sorting in discount percentage for both high and low percentage i.e highest percentage is 15% lowest is 5%.
 
 Would be nice to have but not required for this task:
