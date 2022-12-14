@@ -1,0 +1,56 @@
+[
+    {
+        "brand": "Gymshark",
+        "discount": "7%",
+        "imgsrc": "gymshark.jpg",
+        "description": "Gymshark 7% discount code",
+        "code": "GYMSH98"
+    },
+    {
+        "brand": "Rayban",
+        "discount": "5%",
+        "imgsrc": "rayban.jpg",
+        "description": "Rayban 5% discount code",
+        "code": "RYBN234"
+    },
+    {
+        "brand": "JD Sports",
+        "discount": "10%",
+        "imgsrc": "jdsports.jpg",
+        "description": "JD Sports 10% discount code",
+        "code": "JDSPR97"
+    },
+    {
+        "brand": "Nike",
+        "discount": "12%",
+        "imgsrc": "nike.jpg",
+        "description": "Nike 12% discount code",
+        "code": "NK1279"
+    },
+    {
+        "brand": "Alton Towers",
+        "discount": "15%",
+        "imgsrc": "altontowers.jpg",
+        "description": "Alton Towers 15% discount code",
+        "code": "ALTTW435"
+    },
+    {
+        "brand": "Asda",
+        "discount": "10%",
+        "imgsrc": "asda.jpg",
+        "description": "Asda 10% discount code",
+        "code": "ASD0467"
+    },
+    {
+        "brand": "Argos",
+        "discount": "20%",
+        "imgsrc": "argos.jpg",
+        "code": "ARGS098"
+    },
+    {
+        "brand": "DFS",
+        "discount": "10%",
+        "imgsrc": "dfs.jpg",
+        "code": "DFS75P0"
+    }
+]
