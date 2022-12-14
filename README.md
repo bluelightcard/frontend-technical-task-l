@@ -7,7 +7,6 @@ Please complete the below task within a 3 hour period, please don't spend anymor
 We would preferrably like you to use one of the below frameworks but feel free to use a framework your most comfortable with:
   - NextJS
   - React
-  - Vue
 
 Also if you would like to use Typescript instead of JavaScript that is fine.
 
