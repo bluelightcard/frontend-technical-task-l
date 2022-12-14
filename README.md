@@ -8,6 +8,14 @@ We would preferrably like you to use one of the below frameworks but feel free t
   - NextJS
   - React
   - Vue
+
+Also if you would like to use Typescript instead of JavaScript that is fine.
+
+We will be looking for good demonstrated knowledge of:
+  - HTML5
+  - CSS
+  - JavaScript or Typescript
+  - Component Structure
   
 ## Task
 
