@@ -20,7 +20,7 @@ We will be looking for good demonstrated knowledge of:
   
 ## Task
 
-At bluelightcard we have a large member base that have access to a huge number of discounts. Our members need to see what the latest discounts for different brands/companies are available, with also the ability to filter down to a specific brand/company discount, so that they can use the discount code.
+At Blue Light Card we have a large member base that have access to a huge number of discounts. Our members need to see what the latest discounts for different brands/companies are available, with also the ability to filter down to a specific brand/company discount, so that they can use the discount code.
 
 We would like you to build a small app with the following requirements:
  - Display discounts in a grid layout with a maximum of 3 columns.
