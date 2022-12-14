@@ -16,6 +16,7 @@ We will be looking for good demonstrated knowledge of:
   - CSS
   - JavaScript or Typescript
   - Component Structure
+  - Frontend Frameworks
   
 ## Task
 
